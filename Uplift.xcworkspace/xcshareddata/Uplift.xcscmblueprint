@@ -1,0 +1,27 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "94fb67a7-eb79-4f7f-ba71-de23ba922bf8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "94fb67a7-eb79-4f7f-ba71-de23ba922bf8" : {
+      "DVTSourceControlWorkingCopyRepositoryBranchesLocationKey" : "branches",
+      "DVTSourceControlWorkingCopyRepositoryTagsLocationKey" : "tags",
+      "DVTSourceControlWorkingCopyRepositoryPrimaryBranchLocationKey" : "trunk"
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "94fb67a7-eb79-4f7f-ba71-de23ba922bf8" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C4080F7D-A9A8-47BD-8F63-E181BF5B17C6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "94fb67a7-eb79-4f7f-ba71-de23ba922bf8" : "ALX\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Uplift",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "trunk\/iOS\/Uplift.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.0.2\/alx\/upappmvp",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "94fb67a7-eb79-4f7f-ba71-de23ba922bf8"
+    }
+  ]
+}

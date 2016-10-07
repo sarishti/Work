@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/CMLibrary/Pod/Classes/CMLibrary/WebserviceCallManager/WebserviceCall.m"
+            timestampString = "493554134.499551"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "-webserviceCall:parameters:withSuccessHandler:withFailureHandler:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/CMLibrary/Pod/Classes/CMLibrary/WebserviceCallManager/WebserviceCall.m"
+            timestampString = "493554152.307312"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "-webserviceCall:parameters:withSuccessHandler:withFailureHandler:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/CMLibrary/Pod/Classes/CMLibrary/WebserviceCallManager/WebserviceCall.m"
+            timestampString = "493897250.859439"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "369"
+            endingLineNumber = "369"
+            landmarkName = "-makeRequestForWebServiceAtURL:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WebserviceCall makeRequestForWebServiceAtURL:]"
+                  moduleName = "CMLibrary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///PROJECTS/ALX/trunk/iOS/Pods/CMLibrary/Pod/Classes/CMLibrary/WebserviceCallManager/WebserviceCall.m"
+                  timestampString = "493707595.635368"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "368"
+                  endingLineNumber = "368"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__48-[WebserviceCall makeRequestForWebServiceAtURL:]_block_invoke"
+                  moduleName = "CMLibrary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///PROJECTS/ALX/trunk/iOS/Pods/CMLibrary/Pod/Classes/CMLibrary/WebserviceCallManager/WebserviceCall.m"
+                  timestampString = "493707595.635496"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "370"
+                  endingLineNumber = "370"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/CMLibrary/Pod/Classes/CMLibrary/WebserviceCallManager/WebserviceCall.m"
+            timestampString = "493897250.859439"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "371"
+            endingLineNumber = "371"
+            landmarkName = "-makeRequestForWebServiceAtURL:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/CMLibrary/Pod/Classes/CMLibrary/WebserviceCallManager/WebserviceCall.m"
+            timestampString = "493897250.859439"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "379"
+            endingLineNumber = "379"
+            landmarkName = "-makeRequestForWebServiceAtURL:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/CMLibrary/Pod/Classes/CMLibrary/WebserviceCallManager/WebserviceCall.m"
+            timestampString = "493897250.859439"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "403"
+            endingLineNumber = "403"
+            landmarkName = "-makeRequestForWebServiceAtURL:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/CMLibrary/Pod/Classes/CMLibrary/WebserviceCallManager/WebserviceCall.m"
+            timestampString = "493897250.859439"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "942"
+            endingLineNumber = "942"
+            landmarkName = "-respondToSuccessHandlerWithData:isResponseFromCache:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/CMLibrary/Pod/Classes/CMLibrary/WebserviceCallManager/WebserviceCall.m"
+            timestampString = "493628062.130404"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "237"
+            endingLineNumber = "237"
+            landmarkName = "-setRequestHeaderAndBody:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/CMLibrary/Pod/Classes/CMLibrary/WebserviceCallManager/WebserviceCall.m"
+            timestampString = "493628062.130404"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "263"
+            endingLineNumber = "263"
+            landmarkName = "-setRequestHeaderAndBody:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/CMLibrary/Pod/Classes/CMLibrary/WebserviceCallManager/WebserviceCall.m"
+            timestampString = "493628062.130404"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "175"
+            endingLineNumber = "175"
+            landmarkName = "-setHttpMethodForRequest:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Uplift/ReusableControls/ScrollPager.swift"
+            timestampString = "494413733.329577"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "319"
+            endingLineNumber = "319"
+            landmarkName = "scrollViewDidScroll(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Uplift/WSLayer/ArticleWebserviceProtocol.swift"
+            timestampString = "494925480.427753"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "135"
+            endingLineNumber = "135"
+            landmarkName = "ArticleWebserviceProtocol"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in Uplift):Uplift.ArticleWebserviceProtocol.fetchArticlesByCategory (Swift.Bool, withData : Swift.Optional&lt;Swift.Dictionary&lt;__ObjC.NSObject, Swift.AnyObject&gt;&gt;, withHandler : (arrArticles : Swift.Optional&lt;protocol&lt;&gt;&gt;, success : Swift.Optional&lt;Swift.Bool&gt;, isResponseFromCache : Swift.Optional&lt;Swift.Bool&gt;) -&gt; (), falitureHandler : (error : Swift.Optional&lt;protocol&lt;&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Uplift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///PROJECTS/ALX/trunk/iOS/Uplift/WSLayer/ArticleWebserviceProtocol.swift"
+                  timestampString = "495525082.83128"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "140"
+                  endingLineNumber = "140"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in Uplift):Uplift.ArticleWebserviceProtocol.(fetchArticlesByCategory (Swift.Bool, withData : Swift.Optional&lt;Swift.Dictionary&lt;__ObjC.NSObject, Swift.AnyObject&gt;&gt;, withHandler : (arrArticles : Swift.Optional&lt;protocol&lt;&gt;&gt;, success : Swift.Optional&lt;Swift.Bool&gt;, isResponseFromCache : Swift.Optional&lt;Swift.Bool&gt;) -&gt; (), falitureHandler : (error : Swift.Optional&lt;protocol&lt;&gt;&gt;) -&gt; ()) -&gt; ()).(closure #1)"
+                  moduleName = "Uplift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///PROJECTS/ALX/trunk/iOS/Uplift/WSLayer/ArticleWebserviceProtocol.swift"
+                  timestampString = "495525082.831611"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Uplift/ReusableControls/ICSPullToRefresh/ICSInfiniteScrolling.swift"
+            timestampString = "494933083.87365"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "226"
+            endingLineNumber = "226"
+            landmarkName = "setScrollViewContentInset(_:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Uplift.InfiniteScrollingView.(setScrollViewContentInset in _1C2254A57AB0691E750B41BD4EC9723E) (__C.UIEdgeInsets) -&gt; ()"
+                  moduleName = "Uplift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///PROJECTS/ALX/trunk/iOS/Uplift/ReusableControls/ICSPullToRefresh/ICSInfiniteScrolling.swift"
+                  timestampString = "495525082.832465"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "226"
+                  endingLineNumber = "226"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Uplift.InfiniteScrollingView.((setScrollViewContentInset in _1C2254A57AB0691E750B41BD4EC9723E) (__C.UIEdgeInsets) -&gt; ()).(closure #1)"
+                  moduleName = "Uplift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///PROJECTS/ALX/trunk/iOS/Uplift/ReusableControls/ICSPullToRefresh/ICSInfiniteScrolling.swift"
+                  timestampString = "495525082.832613"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "227"
+                  endingLineNumber = "227"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Uplift/ReusableControls/ICSPullToRefresh/ICSInfiniteScrolling.swift"
+            timestampString = "494933069.278605"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "227"
+            endingLineNumber = "227"
+            landmarkName = "setScrollViewContentInset(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Uplift/ReusableControls/ICSPullToRefresh/ICSInfiniteScrolling.swift"
+            timestampString = "494933626.174311"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "220"
+            endingLineNumber = "220"
+            landmarkName = "srollViewDidScroll(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Uplift/ReusableControls/ICSPullToRefresh/ICSInfiniteScrolling.swift"
+            timestampString = "494933873.967146"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "233"
+            endingLineNumber = "233"
+            landmarkName = "resetScrollViewContentInset()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Uplift/ReusableControls/ICSPullToRefresh/ICSInfiniteScrolling.swift"
+            timestampString = "494933878.155287"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "242"
+            endingLineNumber = "242"
+            landmarkName = "setScrollViewContentInsetForInfiniteScrolling()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Uplift/AppDelegate.swift"
+            timestampString = "495524454.708191"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Uplift/ViewControllers/ArticleDetailViewController.swift"
+            timestampString = "495524717.914976"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "165"
+            endingLineNumber = "165"
+            landmarkName = "upAnArticleService()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Uplift.ArticleDetailViewController.upAnArticleService () -&gt; ()"
+                  moduleName = "Uplift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///PROJECTS/ALX/trunk/iOS/Uplift/ViewControllers/ArticleDetailViewController.swift"
+                  timestampString = "495525082.836765"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "165"
+                  endingLineNumber = "165"
+                  offsetFromSymbolStart = "1324">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Uplift.ArticleDetailViewController.(upAnArticleService () -&gt; ()).(closure #1)"
+                  moduleName = "Uplift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///PROJECTS/ALX/trunk/iOS/Uplift/ViewControllers/ArticleDetailViewController.swift"
+                  timestampString = "495525082.83691"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "166"
+                  endingLineNumber = "166"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Uplift/ViewControllers/ArticleDetailViewController.swift"
+            timestampString = "495524857.577543"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "198"
+            endingLineNumber = "198"
+            landmarkName = "notifyHomeToUpdateArticle(by:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Uplift/ViewControllers/ArticleDetailViewController.swift"
+            timestampString = "495524869.198329"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "166"
+            endingLineNumber = "166"
+            landmarkName = "upAnArticleService()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Uplift/WSLayer/ArticleWebserviceProtocol.swift"
+            timestampString = "495524894.711794"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "upArticle(_:withData:withHandler:falitureHandler:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in Uplift):Uplift.ArticleWebserviceProtocol.upArticle (Swift.Bool, withData : Swift.Optional&lt;Swift.Dictionary&lt;__ObjC.NSObject, Swift.AnyObject&gt;&gt;, withHandler : (obj : Swift.Optional&lt;protocol&lt;&gt;&gt;, success : Swift.Optional&lt;Swift.Bool&gt;) -&gt; (), falitureHandler : (error : Swift.Optional&lt;protocol&lt;&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Uplift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///PROJECTS/ALX/trunk/iOS/Uplift/WSLayer/ArticleWebserviceProtocol.swift"
+                  timestampString = "495525082.838806"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "484">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in Uplift):Uplift.ArticleWebserviceProtocol.(upArticle (Swift.Bool, withData : Swift.Optional&lt;Swift.Dictionary&lt;__ObjC.NSObject, Swift.AnyObject&gt;&gt;, withHandler : (obj : Swift.Optional&lt;protocol&lt;&gt;&gt;, success : Swift.Optional&lt;Swift.Bool&gt;) -&gt; (), falitureHandler : (error : Swift.Optional&lt;protocol&lt;&gt;&gt;) -&gt; ()) -&gt; ()).(closure #1)"
+                  moduleName = "Uplift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///PROJECTS/ALX/trunk/iOS/Uplift/WSLayer/ArticleWebserviceProtocol.swift"
+                  timestampString = "495525082.838939"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Uplift/WSLayer/ArticleWebserviceProtocol.swift"
+            timestampString = "495524895.901956"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "upArticle(_:withData:withHandler:falitureHandler:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Uplift/WSLayer/ArticleWebserviceProtocol.swift"
+            timestampString = "495524907.070219"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "upArticle(_:withData:withHandler:falitureHandler:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Uplift/WSLayer/ArticleWebserviceProtocol.swift"
+            timestampString = "495524909.90058"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "upArticle(_:withData:withHandler:falitureHandler:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in Uplift):Uplift.ArticleWebserviceProtocol.(upArticle (Swift.Bool, withData : Swift.Optional&lt;Swift.Dictionary&lt;__ObjC.NSObject, Swift.AnyObject&gt;&gt;, withHandler : (obj : Swift.Optional&lt;protocol&lt;&gt;&gt;, success : Swift.Optional&lt;Swift.Bool&gt;) -&gt; (), falitureHandler : (error : Swift.Optional&lt;protocol&lt;&gt;&gt;) -&gt; ()) -&gt; ()).(closure #1)"
+                  moduleName = "Uplift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///PROJECTS/ALX/trunk/iOS/Uplift/WSLayer/ArticleWebserviceProtocol.swift"
+                  timestampString = "495525082.840885"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "564">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in Uplift):Uplift.ArticleWebserviceProtocol.(upArticle (Swift.Bool, withData : Swift.Optional&lt;Swift.Dictionary&lt;__ObjC.NSObject, Swift.AnyObject&gt;&gt;, withHandler : (obj : Swift.Optional&lt;protocol&lt;&gt;&gt;, success : Swift.Optional&lt;Swift.Bool&gt;) -&gt; (), falitureHandler : (error : Swift.Optional&lt;protocol&lt;&gt;&gt;) -&gt; ()) -&gt; ()).(closure #1)"
+                  moduleName = "Uplift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///PROJECTS/ALX/trunk/iOS/Uplift/WSLayer/ArticleWebserviceProtocol.swift"
+                  timestampString = "495525082.841024"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "708">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Uplift/WSLayer/ArticleWebserviceProtocol.swift"
+            timestampString = "495524911.996487"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "upArticle(_:withData:withHandler:falitureHandler:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

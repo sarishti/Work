@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Development</key>
+	<dict>
+		<key>BaseUrl</key>
+		<string>http://172.16.26.106:8080/UpliftAdminTemplate/</string>
+	</dict>
+	<key>Staging</key>
+	<dict>
+		<key>BaseUrl</key>
+		<string>http://54.68.241.217:8080/UpliftApp/</string>
+	</dict>
+</dict>
+</plist>

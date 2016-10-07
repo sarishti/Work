@@ -1,0 +1,6 @@
+# Color Code
+yourUpsTabBarColor : #F2BA63
+
+# category Color
+
+categoryNoMoreRecordColor : #FFFFFF

@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  Uplift
+
+  Created by Aditya Aggarwal on 8/17/16.
+  Copyright © 2016 Net Solutions. All rights reserved.
+*/
+
+"MainFeedTitle" = "UPLIFT";
+
+"shareContent" = "I got this article on Uplift app.";

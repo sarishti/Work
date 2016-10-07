@@ -1,0 +1,84 @@
+
+/* Class = "UIButton"; normalTitle = "250"; ObjectID = "5se-Te-1VP"; */
+"5se-Te-1VP.normalTitle" = "250";
+
+/* Class = "UILabel"; text = "No articles, check back after some time."; ObjectID = "D9F-lH-FEF"; */
+"D9F-lH-FEF.text" = "No articles, check back after some time.";
+
+/* Class = "UINavigationItem"; title = "PROFILE"; ObjectID = "DRW-eK-bQn"; */
+"DRW-eK-bQn.title" = "PROFILE";
+
+/* Class = "UIButton"; normalTitle = "NY Times"; ObjectID = "Dt0-5v-4WO"; */
+"Dt0-5v-4WO.normalTitle" = "NY Times";
+
+/* Class = "UIViewController"; title = "YourUpsViewController"; ObjectID = "EXn-N8-UCw"; */
+"EXn-N8-UCw.title" = "YourUpsViewController";
+
+/* Class = "UILabel"; text = "No Record Found"; ObjectID = "IOf-Sg-sJq"; */
+"IOf-Sg-sJq.text" = "No Record Found";
+
+/* Class = "UIViewController"; title = "CategoryViewController"; ObjectID = "Kq3-O2-wcb"; */
+"Kq3-O2-wcb.title" = "CategoryViewController";
+
+/* Class = "UIButton"; normalTitle = "2M"; ObjectID = "Kyy-wp-qbo"; */
+"Kyy-wp-qbo.normalTitle" = "2M";
+
+/* Class = "UIButton"; normalTitle = "NY Times"; ObjectID = "PRd-Vz-TJf"; */
+"PRd-Vz-TJf.normalTitle" = "NY Times";
+
+/* Class = "UIButton"; normalTitle = "250"; ObjectID = "UCO-Dx-mJX"; */
+"UCO-Dx-mJX.normalTitle" = "250";
+
+/* Class = "UIViewController"; title = "ArticleDetailViewController"; ObjectID = "Umh-zh-9Zb"; */
+"Umh-zh-9Zb.title" = "ArticleDetailViewController";
+
+/* Class = "UILabel"; text = "The Science of postive thinking: How thinking change your life"; ObjectID = "V7k-tU-UMz"; */
+"V7k-tU-UMz.text" = "The Science of postive thinking: How thinking change your life";
+
+/* Class = "UINavigationItem"; title = "CATEGORY"; ObjectID = "VIN-lg-RaJ"; */
+"VIN-lg-RaJ.title" = "CATEGORY";
+
+/* Class = "UITabBarItem"; title = "NEWS FEED"; ObjectID = "WzY-gr-li8"; */
+"WzY-gr-li8.title" = "NEWS FEED";
+
+/* Class = "UILabel"; text = "TECHNOLOGY"; ObjectID = "dde-zU-QJP"; */
+"dde-zU-QJP.text" = "TECHNOLOGY";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "e21-8t-7xf"; */
+"e21-8t-7xf.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "UPLIFT"; ObjectID = "f3W-8Z-nbQ"; */
+"f3W-8Z-nbQ.title" = "UPLIFT";
+
+/* Class = "UITabBarItem"; title = "CATEGORY"; ObjectID = "fOd-El-Pve"; */
+"fOd-El-Pve.title" = "CATEGORY";
+
+/* Class = "UILabel"; text = "The Science of postive thinking: How thinking change your life"; ObjectID = "hny-sd-LZu"; */
+"hny-sd-LZu.text" = "The Science of postive thinking: How thinking change your life";
+
+/* Class = "UILabel"; text = "No Record Found"; ObjectID = "lmc-g8-9gs"; */
+"lmc-g8-9gs.text" = "No Record Found";
+
+/* Class = "UIButton"; normalTitle = "News"; ObjectID = "pIU-mi-nce"; */
+"pIU-mi-nce.normalTitle" = "News";
+
+/* Class = "UINavigationItem"; title = "UPLIFT"; ObjectID = "pYo-Gh-0ei"; */
+"pYo-Gh-0ei.title" = "UPLIFT";
+
+/* Class = "UINavigationItem"; title = "YOUR UPS"; ObjectID = "pqR-qR-Ix3"; */
+"pqR-qR-Ix3.title" = "YOUR UPS";
+
+/* Class = "UIButton"; normalTitle = "News"; ObjectID = "rjR-cf-Vf1"; */
+"rjR-cf-Vf1.normalTitle" = "News";
+
+/* Class = "UILabel"; text = "No Record Found"; ObjectID = "sj2-hC-1aC"; */
+"sj2-hC-1aC.text" = "No Record Found";
+
+/* Class = "UILabel"; text = "The Science of postive thinking: How thinking change your life"; ObjectID = "tjD-U6-dJD"; */
+"tjD-U6-dJD.text" = "The Science of postive thinking: How thinking change your life";
+
+/* Class = "UIButton"; normalTitle = "2M"; ObjectID = "vGy-pw-wlG"; */
+"vGy-pw-wlG.normalTitle" = "2M";
+
+/* Class = "UITabBarItem"; title = "YOUR UPS"; ObjectID = "xGY-KG-Jbk"; */
+"xGY-KG-Jbk.title" = "YOUR UPS";
